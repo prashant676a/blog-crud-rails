@@ -1,24 +1,9 @@
-# README
+# Blog Crud Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the project i'm doing to learn ruby on rails by building a basic blog crud application.
 
-Things you may want to cover:
+Following are the dependencies for this project: 
 
-* Ruby version
+ * Ruby Version: 3.1.2p20
+ * Rails Version 7.0.8.4
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
